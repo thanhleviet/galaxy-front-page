@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Release Notes on </title>
+    <link>/categories/hugo-release-notes/</link>
+    <description>Recent content in Hugo Release Notes on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Core Bioinformatics and Informatics Group</copyright>
+    <lastBuildDate>Wed, 18 May 2022 00:00:00 +0100</lastBuildDate><atom:link href="/categories/hugo-release-notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo v0.99.1</title>
+      <link>/workflows/hugo-v0-99/</link>
+      <pubDate>Wed, 18 May 2022 00:00:00 +0100</pubDate>
+      
+      <guid>/workflows/hugo-v0-99/</guid>
+      <description>Fix server regression for multihost sites (multiple languages with different baseURLs).
+Release Notes on GitHub.</description>
+    </item>
+    
+  </channel>
+</rss>

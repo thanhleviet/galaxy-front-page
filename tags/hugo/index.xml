@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on </title>
+    <link>/tags/hugo/</link>
+    <description>Recent content in Hugo on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Core Bioinformatics and Informatics Group</copyright>
+    <lastBuildDate>Sun, 22 May 2022 13:35:02 +0100</lastBuildDate><atom:link href="/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo Bootstrap Theme alpha</title>
+      <link>/workflows/hugo-bootstrap-theme/</link>
+      <pubDate>Sun, 22 May 2022 13:35:02 +0100</pubDate>
+      
+      <guid>/workflows/hugo-bootstrap-theme/</guid>
+      <description>Hugo theme for a secure, blazing fast and SEO-ready static website, using Bootstrap 5.
+Open-source MIT Licensed Hugo Theme, using Bootstrap 5.
+🛡️ Security aware
+Get A+ scores on Mozilla Observatory out of the box. Easily change the default Security Headers to suit your needs.
+⚡ Fast by default
+Get 100 scores on Google Lighthouse by default. Hugo Bootstrap Theme removes unused css, prefetches links, and lazy loads images.</description>
+    </item>
+    
+    <item>
+      <title>Hugo v0.99.1</title>
+      <link>/workflows/hugo-v0-99/</link>
+      <pubDate>Wed, 18 May 2022 00:00:00 +0100</pubDate>
+      
+      <guid>/workflows/hugo-v0-99/</guid>
+      <description>Fix server regression for multihost sites (multiple languages with different baseURLs).
+Release Notes on GitHub.</description>
+    </item>
+    
+  </channel>
+</rss>
